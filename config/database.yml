@@ -27,9 +27,9 @@ development:
   encoding: unicode
   database: innovationdb
   pool: 10
-  username: db_admin
-  password: password0
-  host: testdb.cr1wndysygyw.ap-southeast-2.rds.amazonaws.com
+  username: db_xxx
+  password: xxx
+  host: xxx.xxx.ap-southeast-2.rds.amazonaws.com
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
@@ -66,6 +66,6 @@ production:
   encoding: unicode
   database: innovationdb
   pool: 10
-  username: db_admin
-  password: password0
-  host: testdb.cr1wndysygyw.ap-southeast-2.rds.amazonaws.com
+  username: db_xxx
+  password: xxx
+  host: xxx.xxx.ap-southeast-2.rds.amazonaws.com
