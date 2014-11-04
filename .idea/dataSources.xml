@@ -4,8 +4,8 @@
     <data-source source="LOCAL" name="Rails receta-master: development" uuid="cabeb19c-a099-4a08-9da9-2c6df6b94579">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:receta_development</jdbc-url>
-      <user-name>vagrant</user-name>
+      <jdbc-url>jdbc:postgresql://testdb.cr1wndysygyw.ap-southeast-2.rds.amazonaws.com/innovationdb</jdbc-url>
+      <user-name>db_admin</user-name>
       <user-password>dfdadfcbdfd9dfd9dfdddfc5dfd8dfcedf9a</user-password>
       <libraries />
     </data-source>
