@@ -56,7 +56,8 @@ test:
 production:
   adapter: postgresql
   encoding: unicode
-  database: receta_production
+  database: innovationdb
   pool: 5
-  username: admin
-  password:
+  username: db_admin
+  password: password0
+  host: testdb.cr1wndysygyw.ap-southeast-2.rds.amazonaws.com
