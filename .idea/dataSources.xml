@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3134282858">
+    <data-source source="LOCAL" name="Rails receta-master: development" uuid="cabeb19c-a099-4a08-9da9-2c6df6b94579">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:receta_development</jdbc-url>
+      <user-name>vagrant</user-name>
+      <user-password>dfdadfcbdfd9dfd9dfdddfc5dfd8dfcedf9a</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails receta-master: test" uuid="c82b0eef-a463-4379-b25b-0fb662aecac4">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:receta_test</jdbc-url>
+      <user-name>vagrant</user-name>
+      <user-password>dfdadfcbdfd9dfd9dfdddfc5dfd8dfcedf9a</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails receta-master: production" uuid="46bc4bdd-b84f-4f1c-8a3a-cb0c3eb6759a">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:receta_production</jdbc-url>
+      <user-name>admin</user-name>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails receta-master: development" uuid="cabeb19c-a099-4a08-9da9-2c6df6b94579">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails receta-master: test" uuid="c82b0eef-a463-4379-b25b-0fb662aecac4">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails receta-master: production" uuid="46bc4bdd-b84f-4f1c-8a3a-cb0c3eb6759a">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
